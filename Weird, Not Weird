@@ -1,0 +1,9 @@
+if n%2!=0:
+    print('Weird')
+elif n%2==0 in range (n<=5):
+    print('Not Weird')
+elif n%2==0 in range (n<=20):
+    print('Weird')
+else:
+    if n>20:
+        print('Not Weird')
